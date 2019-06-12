@@ -1,0 +1,15 @@
+D:\proyectos\NeSis\Negocio\bin\Debug\Negocio.dll
+D:\proyectos\NeSis\Negocio\bin\Debug\Negocio.pdb
+D:\proyectos\NeSis\Negocio\bin\Debug\Datos.dll
+D:\proyectos\NeSis\Negocio\bin\Debug\Modelo.dll
+D:\proyectos\NeSis\Negocio\bin\Debug\Datos.pdb
+D:\proyectos\NeSis\Negocio\bin\Debug\Modelo.pdb
+D:\proyectos\NeSis\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+D:\proyectos\NeSis\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+D:\proyectos\NeSis\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+D:\proyectos\NeSis\Negocio\obj\Debug\Negocio.dll
+D:\proyectos\NeSis\Negocio\obj\Debug\Negocio.pdb
+D:\proyectos\NeSis\Negocio\bin\Debug\MySql.Data.dll
+D:\proyectos\NeSis\Negocio\bin\Debug\Google.Protobuf.dll
+D:\proyectos\NeSis\Negocio\bin\Debug\BouncyCastle.Crypto.dll
+D:\proyectos\NeSis\Negocio\bin\Debug\MySql.Data.xml
